@@ -15,7 +15,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd ju-rosas-site
+  cd Ju-Rosas-Site
 ```
 
 
