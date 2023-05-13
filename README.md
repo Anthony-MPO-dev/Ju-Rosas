@@ -19,6 +19,13 @@ Entre no diretório do projeto
 ```
 
 
+Baixe as dependências next no diretório do projeto
+
+```bash
+  npm install next
+```
+
+
 Inicie o servidor
 
 ```bash
